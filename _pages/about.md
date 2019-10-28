@@ -1,20 +1,22 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Sudarshan</strong> Iyengar
+description: <a href="cse.iitrpr.ac.in">Computer Science Department</a>. Indian Institute of Technology (Ropar)
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>#218, First Floor</p>
+    <p>CSE dept, IIT Ropar</p>
+    <p>Rupnagar, Punjab 140001</p>
 
 news: true
 social: true
 ---
+
+I work as an Assistant Professor at the Indian Institute of Technology (Ropar Campus). 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Sudarshan Iyengar
+email: sudarshan@iitrpr.ac.in
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -10,17 +10,17 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
+url: http://www.sudarshaniyengar.com  # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+github_username: sudarshansudarshan # your GitHub user name
+twitter_username: sudarshaniisc # your Twitter handle
+linkedin_username: sudarshaniisc # your LinkedIn user name
+scholar_userid: sudarshaniisc # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -66,6 +66,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  nptel:
+    output: true
+    permalink: /nptel/:path/
 
 news_limit: 5
 
@@ -91,9 +94,9 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Iyengar
 
-  style: apa
+  style: apa 
   locale: en
 
   sort_by: year
